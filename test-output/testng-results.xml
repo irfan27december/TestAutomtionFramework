@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="297" started-at="2019-11-11T07:59:53Z" finished-at="2019-11-11T07:59:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="297" started-at="2019-11-11T07:59:53Z" finished-at="2019-11-11T07:59:53Z">
+      <class name="testngexamples.TestNGExample1">
+        <test-method status="PASS" signature="TestCase1()[pri:0, instance:testngexamples.TestNGExample1@7cd62f43]" name="TestCase1" duration-ms="249" started-at="2019-11-11T07:59:53Z" finished-at="2019-11-11T07:59:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+        <test-method status="PASS" signature="TestCase2()[pri:0, instance:testngexamples.TestNGExample1@7cd62f43]" name="TestCase2" duration-ms="0" started-at="2019-11-11T07:59:53Z" finished-at="2019-11-11T07:59:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+      </class> <!-- testngexamples.TestNGExample1 -->
+      <class name="testngexamples.TestNGExample2">
+        <test-method status="PASS" signature="BeforeMethodTestCase1()[pri:0, instance:testngexamples.TestNGExample2@6d4b1c02]" name="BeforeMethodTestCase1" is-config="true" duration-ms="16" started-at="2019-11-11T07:59:53Z" finished-at="2019-11-11T07:59:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethodTestCase1 -->
+        <test-method status="PASS" signature="TestNGClass2Method1()[pri:0, instance:testngexamples.TestNGExample2@6d4b1c02]" name="TestNGClass2Method1" duration-ms="0" started-at="2019-11-11T07:59:53Z" finished-at="2019-11-11T07:59:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestNGClass2Method1 -->
+        <test-method status="PASS" signature="BeforeMethodTestCase2()[pri:0, instance:testngexamples.TestNGExample2@6d4b1c02]" name="BeforeMethodTestCase2" is-config="true" duration-ms="0" started-at="2019-11-11T07:59:53Z" finished-at="2019-11-11T07:59:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethodTestCase2 -->
+      </class> <!-- testngexamples.TestNGExample2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
